@@ -23,7 +23,7 @@ this.hasRGB= hasRGB;
     
     public static void main(String[] args) {
         Mouse redDragon = new Mouse("MSI","Black",true);
-System.out.println("The mouse");
+System.out.println("new");
 System.out.println(redDragon.brand);
 System.out.println(redDragon.color);
 System.out.println(redDragon.hasRGB);
